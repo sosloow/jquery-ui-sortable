@@ -1,19 +1,9 @@
 {
   "name": "jquery-ui-sortable",
   "version": "0.0.0",
-  "homepage": "https://github.com/sosloow/jquery-ui-sortable",
-  "authors": [
-    "Stepan Shilin <sosloow@gmail.com>"
-  ],
+  "authors": ["Stepan Shilin <sosloow@gmail.com>"],
   "description": "custom build of jquery-ui",
   "main": "jquery-ui.js",
-  "license": "MIT",
   "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "ignore": []
 }
